@@ -1,0 +1,10 @@
+[package]
+name = "web-spa"
+version = "0.0.0"
+edition = "2021"
+homepage = "https://github.com/anycms/web-spa"
+authors = ["Liangdi <wu@liangdi.me>"]
+description = "SPA(Single Page Application) module for web applications"
+license = "MIT"
+
+[dependencies]
