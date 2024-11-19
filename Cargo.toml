@@ -1,6 +1,6 @@
 [package]
 name = "web-spa"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 homepage = "https://github.com/anycms/web-spa"
 authors = ["Liangdi <wu@liangdi.me>"]
